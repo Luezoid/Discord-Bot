@@ -1,1 +1,1 @@
-worker: Discord-Bot
+echo worker: python worker.py > Procfile
