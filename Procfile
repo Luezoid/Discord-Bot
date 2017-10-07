@@ -1,1 +1,1 @@
-echo worker: python worker.py > Procfile
+echo worker: python luezoid-bot.py > Procfile
